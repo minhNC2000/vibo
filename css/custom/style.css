@@ -1,5 +1,5 @@
 #nav-section {
-  background: url(./Img/Background1.png) center center/cover;
+  background: url("../../Img/Background1.png") center center/cover;
   background-attachment: fixed;
   height: 1000px;
 }
@@ -71,7 +71,7 @@
 
 #marketing1-section {
   z-index: 99999;
-  background: url("./Img/Background2.png") repeat center;
+  background: url("../../Img/Background2.png") repeat center;
 
   height: 1246px;
   transform: translate(0, -210px);
@@ -217,7 +217,7 @@
   font-size: 14.8px;
 }
 #marketing4-section {
-  background: url("./Img/Background1.png") center center/cover;
+  background: url("../../Img/Background1.png") center center/cover;
   background-attachment: fixed;
 }
 
