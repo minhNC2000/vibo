@@ -1,0 +1,306 @@
+#nav-section {
+  background: url(/Img/Background1.png) center center/cover;
+  background-attachment: fixed;
+  height: 1000px;
+}
+#nav-section .navigation {
+  padding: 48px 0;
+}
+#nav-section .nav-link > a {
+  padding: 20px;
+  color: white;
+}
+#nav-section .nav-link > a:hover {
+  color: black;
+  text-shadow: 1px 1px 2px black;
+}
+#nav-section .introducing {
+  color: white;
+}
+#nav-section .introducing .title p {
+  font-size: 53px;
+  font-weight: bold;
+  width: 60%;
+  text-align: center;
+}
+#nav-section .introducing .content {
+  font-size: 17px;
+}
+#nav-section .handle-btn {
+  padding: 20px 0;
+}
+#nav-section .handle-btn div {
+  margin: 0 27px;
+}
+
+/* Btn-Download */
+#nav-section .handle-btn .btn {
+  margin: 0 20px;
+}
+#nav-section .handle-btn button:hover {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+/* BTn-Download */
+
+/* Btn-Contact */
+#nav-section .handle-btn .btn-contact {
+  background-color: white;
+  border-radius: 5px;
+  width: 170px;
+  padding: 9px 0;
+  text-align: center;
+}
+
+#nav-section .handle-btn .btn-contact a {
+  color: black;
+}
+#nav-section .handle-btn .btn-contact a:hover {
+  color: white;
+}
+#nav-section .handle-btn .btn-contact:hover {
+  background-color: transparent;
+  border: 1px solid black;
+}
+
+#nav-section .smartphone {
+  padding-top: 50px;
+}
+
+#marketing1-section {
+  z-index: 99999;
+  background: url("/Img/Background2.png") repeat center;
+
+  height: 1246px;
+  transform: translate(0, -210px);
+}
+
+#marketing1-section .marketing-content {
+  transform: translate(0, 250px);
+}
+#marketing1-section .mk1-introduce div {
+  border-radius: 5px;
+}
+
+#marketing1-section .mk1-shop {
+  padding: 33px 14px;
+  max-width: 271px;
+  box-shadow: 0px 0px 5px 1px #545252;
+  transform: translate(10px, -10px);
+}
+
+#marketing1-section .mk1-shop .mk1-shop-content h5 {
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+#marketing1-section .mk1-shop .mk1-shop-content p {
+  font-family: "WorkSans";
+  color: #6a6d89;
+}
+
+#marketing1-section .mk1-chat {
+  padding: 60px 14px;
+  max-width: 271px;
+  box-shadow: 0px 0px 5px 1px #545252;
+  transform: translate(80px, 70px);
+}
+#marketing1-section .mk1-chat .mk1-chat-content h5 {
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+
+#marketing1-section .mk1-paint {
+  padding: 60px 14px;
+  max-width: 271px;
+  box-shadow: 0px 0px 5px 1px #545252;
+  transform: translate(-25px, 35px);
+}
+#marketing1-section .mk1-paint .mk1-paint-content h5 {
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+
+#marketing1-section .mk1-phone {
+  padding: 60px 14px;
+  max-width: 271px;
+  box-shadow: 0px 0px 5px 1px #545252;
+  transform: translate(45px, 180px);
+}
+#marketing1-section .mk1-phone .mk1-phone-content h5 {
+  padding-top: 35px;
+  padding-bottom: 20px;
+}
+
+#marketing2-section {
+  margin-top: -210px;
+  padding-bottom: 142px;
+}
+#marketing2-section .head-content {
+  margin-top: 150px;
+  padding: 20px 0;
+}
+
+#marketing2-section .head-content h1 {
+  font-weight: bold;
+}
+#marketing2-section .body-content > p {
+  text-align: right;
+  font-size: 14.6px;
+  margin-bottom: 15px;
+}
+
+/* Btn-Download */
+#marketing2-section button:hover {
+  background-color: transparent;
+  border: 1px solid black;
+  text-shadow: 1px 1px 2px black;
+  
+}
+/* BTn-Download */
+
+#marketing2-section .blabla {
+  margin-top: 105px;
+  height: 300px;
+}
+#marketing2-section .blabla div {
+  margin: 20px;
+  padding: 20px 40px;
+  box-shadow: 0px 0px 5px 1px #545252;
+  border-radius: 5px;
+  transition: all 1s;
+}
+#marketing2-section .blabla img {
+  width: 35px;
+  padding-right: 10px;
+}
+
+#marketing2-section .blabla div:hover {
+  background-color: #33d2fd;
+  height: auto;
+}
+#marketing2-section .blabla div > p {
+  display: none;
+  padding-left: 38px;
+}
+#marketing2-section .blabla div:hover > p {
+  color: white;
+  display: block;
+}
+
+#marketing3-section {
+  padding-bottom: 107px;
+  background-color: #fafafc;
+}
+
+#marketing3-section .mk3-context {
+  margin-top: 30px;
+}
+#marketing3-section .mk3-context p {
+  font-weight: bold;
+}
+#marketing3-section .mk3-context i {
+  color: aqua;
+  display: inline-block;
+  padding-right: 15px;
+}
+#marketing3-section .mk3-context p {
+  display: inline-block;
+}
+#marketing3-section .col > img:hover {
+  transition: transform 0.2s;
+  transform: scale(1.4);
+}
+
+#marketing3-section .mk3-content {
+  font-size: 14.8px;
+}
+#marketing4-section {
+  background: url(/Img/Background1.png) center center/cover;
+  background-attachment: fixed;
+}
+
+#marketing4-section .mk4-img {
+  padding-top: 110px;
+}
+#marketing4-section .mk4-body .mk4-btn img {
+  padding-right: 30px;
+}
+#marketing4-section .mk4-body .mk4-btn {
+  margin-top: 30px;
+}
+
+#marketing4-section .mk4-getappbtn {
+  z-index: 999999;
+  background-color: #fa5680;
+  width: 370px;
+  text-align: center;
+  transform: translate(505px, 25px);
+  padding: 15px 0;
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+#marketing4-section .mk4-getappbtn > p {
+  margin: auto;
+}
+#marketing4-section .mk4-getappbtn > p > a {
+  color: rgb(255, 255, 255);
+}
+
+#info {
+  padding-top: 100px;
+  color: black;
+}
+#info ul > li > a {
+  color: black;
+}
+#info ul > li > a:hover {
+  font-weight: bold;
+}
+#info .subcribe {
+  margin-top: 107px;
+}
+#info button:hover {
+  border: 2px solid black;
+  background: transparent;
+}
+
+#info .subcribe p:first-child {
+  font-weight: bold;
+  font-size: 35px;
+}
+
+#info input[type="text"] {
+  width: 80%;
+  height: 51px;
+  background-color: #f6f7fb;
+}
+@media screen and (max-width: 768px) {
+  #info input[type="text"] {
+    width: 100%;
+  }
+}
+#info button {
+  background-color: #33d2fd;
+  text-transform: uppercase;
+  padding: 11.6px;
+  margin-left: 32px;
+  font-weight: bold;
+  width: 170px;
+}
+
+#footer-section {
+  margin-top: 85px;
+  background-color: #233148;
+  color: white;
+}
+#footer-section .icon-link a {
+  font-size: 25px;
+  color: white;
+  margin: 0 10px;
+}
+#footer-section .footer {
+  padding: 30px 0;
+}

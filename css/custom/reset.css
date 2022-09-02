@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "WorkSans";
+  src:  url("../../font/WorkSans-Regular.woff") format("woff");
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a {
+  text-decoration: none;
+ 
+}
+li {
+  list-style: none;
+}
+p{
+  margin: 0;
+}
+
